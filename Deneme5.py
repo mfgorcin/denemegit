@@ -1,2 +1,0 @@
-
-print("Feyzi Gorcin")
